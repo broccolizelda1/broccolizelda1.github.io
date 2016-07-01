@@ -1,0 +1,15 @@
+body {
+ font-family: 'Trebuchet MS', 'Helvetica';
+ height: 100%
+ margin: 0%
+ text-align: center;
+ width: 100%;
+background-image: url('penguin4.jpg');
+font-size: 14px
+}
+h1 {
+font-size: 32px
+font-family: 'Trebuchet MS', 'Helvetica';
+text-align: center;
+
+}
